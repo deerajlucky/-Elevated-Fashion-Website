@@ -16,11 +16,11 @@ Project Title : Level-Up Lifestyle
 
 Problem Statement/Opportunity :
 
-As the internet retail sector has been expanding at an astounding rate in the modern world, a small business wishes to create a website that is smartly and tastefully built. They have decided to utilise Azure Cloud Platform to develop an entire website. To better serve your consumers, create a website with fantastic features like a banner text slider, eye-catching hover effects, easy scrolling navigation, gallery light box effect, and more.
+Due to the rapid growth of the online retail industry in today's world, a small business aims to establish a well-designed and sophisticated website. They have chosen to utilize Azure Cloud Platform for the creation of their entire website. In order to provide excellent service to their customers, they aspire to incorporate exceptional features such as a banner text slider, attractive hover effects, seamless scrolling navigation, a gallery light box effect, and other impressive elements.
 
 Project Description :
 
-Using Javascript, HTML, CSS, and Bootstrap framework, I built the web store "Elevated Fashion". It helps consumers in selecting and investigating trendy attire in accordance with their daily fashion requirements. Amazing features on this cleverly and tastefully built website include a slider for the banner text, captivating hover effects, easy scrolling navigation, gallery light box effects, and many more. This website is a 100% cross-browser responsive template that works with all devices and fits all screen sizes. Due to its appealing design, which attracts customers' attention and enables the seller to highlight their best products, this project is intended for both sellers and buyers. By doing this, a consumer can receive any thing at their door without ever leaving the house. I am using Microsoft Azure with Github to deploy the website and finish this project.
+"Elevated Fashion," a web store designed to assist consumers in finding trendy attire based on their fashion needs, was built using Javascript, HTML, CSS. The website boasts a variety of impressive features, including a banner text slider, engaging hover effects, smooth scrolling navigation, and a gallery light box. It is a fully responsive template that is compatible with all devices and screen sizes, making it a convenient option for both buyers and sellers. With its visually appealing design, the website effectively showcases the seller's top products and captures the attention of potential customers. To ensure its accessibility, the website has been deployed using Microsoft Azure and Github. As a result, consumers can order their desired items from the comfort of their own home.
 
 Primary Azure Technology : Static Web Apps, Web Apps
 
