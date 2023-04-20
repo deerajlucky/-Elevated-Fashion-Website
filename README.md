@@ -26,7 +26,7 @@ Primary Azure Technology : Static Web Apps, Web Apps
 
 # Screenshots
 
-![Screenshot (372)](New folder/1.png)
+![Screenshot (372)](https://github.com/deerajlucky/-Elevated-Fashion-Website/blob/main/New%20folder/1.png))
 
 ![Screenshot (373)](https://user-images.githubusercontent.com/77123160/171273879-188ccde3-9c39-46d5-9b9e-987a6c992c6c.png)
 
