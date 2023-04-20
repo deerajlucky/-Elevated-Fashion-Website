@@ -29,6 +29,7 @@ Primary Azure Technology : Static Web Apps, Web Apps
 ![Screenshot (372)](https://github.com/deerajlucky/-Elevated-Fashion-Website/blob/main/New%20folder/1.png)
 
 ![Screenshot (373)](https://github.com/deerajlucky/-Elevated-Fashion-Website/blob/main/New%20folder/2.png)
+
 ![Screenshot (374)](https://github.com/deerajlucky/-Elevated-Fashion-Website/blob/main/New%20folder/3.png)
 
 ![Screenshot (375)](https://github.com/deerajlucky/-Elevated-Fashion-Website/blob/main/New%20folder/4.png)
