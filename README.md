@@ -1,6 +1,6 @@
 # ["Elevated Fashion" Website using Microsoft Azure Technologies](https://jolly-sand-0b9be0e10.1.azurestaticapps.net)
 
-Project Link : https://kind-bush-00edaa700.3.azurestaticapps.net/
+Project Link : https://ambitious-pond-07db24d00.3.azurestaticapps.net/
 
 Demo Video : https://drive.google.com/file/d/1-MQTEwwX6XnYWB1C9GgoWvppgRpEyJFd/view?usp=sharing
 
