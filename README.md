@@ -6,7 +6,7 @@ Demo Video : https://drive.google.com/file/d/1WXZORaNI5ZBa8m5MVe0Fnc38QlJtBp6t/v
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-Web Technologies used : HTML, CSS, JS, Bootstrap
+Web Technologies used : HTML, CSS, JS
 
 IDE : VS-Code
 
