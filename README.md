@@ -22,7 +22,7 @@ Project Description :
 
 "Elevated Fashion," a web store designed to assist consumers in finding trendy attire based on their fashion needs, was built using Javascript, HTML, CSS. The website boasts a variety of impressive features, including a banner text slider, engaging hover effects, smooth scrolling navigation, and a gallery light box. It is a fully responsive template that is compatible with all devices and screen sizes, making it a convenient option for both buyers and sellers. With its visually appealing design, the website effectively showcases the seller's top products and captures the attention of potential customers. To ensure its accessibility, the website has been deployed using Microsoft Azure and Github. As a result, consumers can order their desired items from the comfort of their own home.
 
-Primary Azure Technology : Static Web Apps, Web Apps
+Primary Azure Technology : Static Web Apps, Web Apps, Azure Bot
 
 # Screenshots
 
@@ -36,5 +36,10 @@ Primary Azure Technology : Static Web Apps, Web Apps
 
 # Static Website
 ![Screenshot (375)](https://github.com/deerajlucky/-Elevated-Fashion-Website/blob/main/New%20folder/png5.png)
+
+# QnA Azure Bot
+![Screenshot (375)](https://github.com/deerajlucky/-Elevated-Fashion-Website/blob/main/New%20folder/Screenshot%202023-04-27%20231458.png)
+
+![Screenshot (375)](https://github.com/deerajlucky/-Elevated-Fashion-Website/blob/main/New%20folder/Screenshot%202023-04-27%20231720.png)
 
 
