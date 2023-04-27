@@ -1,4 +1,4 @@
-# ["Elevated Fashion" Website using Microsoft Azure Technologies](https://jolly-sand-0b9be0e10.1.azurestaticapps.net)
+# ["Elevated Fashion" Website using Microsoft Azure Technologies](https://ambitious-pond-07db24d00.3.azurestaticapps.net/)
 
 Project Link : https://ambitious-pond-07db24d00.3.azurestaticapps.net/
 
@@ -33,5 +33,8 @@ Primary Azure Technology : Static Web Apps, Web Apps
 ![Screenshot (374)](https://github.com/deerajlucky/-Elevated-Fashion-Website/blob/main/New%20folder/3.png)
 
 ![Screenshot (375)](https://github.com/deerajlucky/-Elevated-Fashion-Website/blob/main/New%20folder/4.png)
+
+# Static Website
+![Screenshot (375)](https://github.com/deerajlucky/-Elevated-Fashion-Website/blob/main/New%20folder/png5.png)
 
 
