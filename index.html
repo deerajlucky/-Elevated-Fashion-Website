@@ -2,6 +2,48 @@
 <html lang="en">
 
 <head>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+  .button {
+    border-radius: 10px;
+    background-color: #CC9999;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 50px;
+    padding: 50px;
+    width: 700px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  
+  .button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .button:hover span {
+    padding-right: 50px;
+  }
+  
+  .button:hover span:after {
+    opacity: 1;
+    right: 0;
+    }
+    </style>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -183,7 +225,8 @@ http://www.templatemo.com/tm-519-beauty
       </form>
     </div>
   </section>
- <center> <a href="https://telegram.me/deeraj_bot"><h1>BOT SUPPORT </h1></a></center>
+
+ <center><button class="button"><span><a href="https://telegram.me/deeraj_bot">BOT SUPPORT </span></button></a></center>
 
   <footer class="pt-4 pb-4">
     <p class="text-center tm-text-light-dark">Copyright &copy; 2018 Company Name 
@@ -232,6 +275,5 @@ http://www.templatemo.com/tm-519-beauty
     });
   });
 </script>
-<center> BOT SUPPORT <a href="https://telegram.me/deeraj_bot"></center>
 </body>
 </html>
