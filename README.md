@@ -2,7 +2,7 @@
 
 Project Link : https://ambitious-pond-07db24d00.3.azurestaticapps.net/
 
-Demo Video : https://drive.google.com/file/d/1WXZORaNI5ZBa8m5MVe0Fnc38QlJtBp6t/view?usp=sharing
+Demo Video : https://drive.google.com/file/d/1LCIgITSg_CJb3kZKFYvBrYXTq4BaYDA5/view?usp=sharing
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -16,7 +16,7 @@ Project Title : Level-Up Lifestyle
 
 Problem Statement/Opportunity :
 
-Due to the rapid growth of the online retail industry in today's world, a small business aims to establish a well-designed and sophisticated website. They have chosen to utilize Azure Cloud Platform for the creation of their entire website. In order to provide excellent service to their customers, they aspire to incorporate exceptional features such as a banner text slider, attractive hover effects, seamless scrolling navigation, a gallery light box effect, and other impressive elements.
+Despite the availability of numerous fashion photography websites, there is still a lack of platforms that provide a seamless experience for both photographers and fashion enthusiasts to discover and share inspiring fashion photography.
 
 Project Description :
 
