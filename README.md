@@ -2,7 +2,7 @@
 
 Project Link : https://ambitious-pond-07db24d00.3.azurestaticapps.net/
 
-Demo Video : https://drive.google.com/file/d/1LCIgITSg_CJb3kZKFYvBrYXTq4BaYDA5/view?usp=sharing
+Demo Video : https://drive.google.com/file/d/1PrtD3ErPmZMc-nVJCxoklkEjAqpYfAER/view?usp=sharing
 
 _______________________________________________________________________________________________________________________________________________________________________
 
