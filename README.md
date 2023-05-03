@@ -38,6 +38,8 @@ Primary Azure Technology : Static Web Apps, Web Apps, Azure Bot
 ![Screenshot (375)](https://github.com/deerajlucky/-Elevated-Fashion-Website/blob/main/New%20folder/png5.png)
 
 # QnA Azure Bot
+![Screenshot (375)](https://github.com/deerajlucky/-Elevated-Fashion-Website/blob/main/New%20folder/Screenshot%202023-05-04%20004000.png)
+
 ![Screenshot (375)](https://github.com/deerajlucky/-Elevated-Fashion-Website/blob/main/New%20folder/Screenshot%202023-04-27%20231458.png)
 
 ![Screenshot (375)](https://github.com/deerajlucky/-Elevated-Fashion-Website/blob/main/New%20folder/Screenshot%202023-04-27%20231720.png)
